@@ -19,7 +19,7 @@ This was made in order to help students with the installation oF WSL, g++, and t
 9) Once it's done downloading, run the following command `mkdir RinconOperatingSystems` (This is going to create a folder in the root of your WSL. This is essentially where your homework and such is going to be stored.)
 10) Go within that folder you just created by doing the command `cd RinconOperatingSystems/`
 11) Run the command `code .` *(This is going to more likely download and/or open Visual Studio Code within your WSL)*
-12) First thing, download the necessary extentions. Go to the extentions tab found on the left side of your screen *(looks like four boxes)* and download the following items.
+12) First thing, download the necessary extentions. Go to the extentions tab found on the left side of your screen *(looks like four boxes)* and download the following items.  
   - C/C++ *By: Microsoft*
   - C/C++ Extension Pack *By: Microsoft*
   - Remote - WSL *By: Microsoft*  
