@@ -40,17 +40,21 @@ This was made in order to help students with the installation oF WSL, g++, and t
   2) Open VSCode and click on `file` on the top left, click `Open Recent` and find it through there. You're probably looking something as `~/OperatingSystems/ [WSL: Ubuntu]`.
   3) Close your Ubuntu terminal, reopen it, and follow steps 10 & 11.
 
+
 > "**My key bindings that Rincon provided isn't working!**"
 - *The way I fixed this was by setting the global keybinds, since VSCode does not provide workplace specific custom keybinds.*
   1) Open VSCode WSL workplace and click `CTRL+SHIFT+p`, type `Open Keyboard Shortcuts`, and click on `Preferences: Open Keyboard Shortcuts (JSON)`. This is going to open a `keybindings.json` file.
   2) Go back to the `keybindings.json` that Rincon provided and copy & paste it within the `keybindings.json` file that VSCode opened. Make sure there is no errors, you are rewritting the entire file.
   3) Save it and close the files. Click `CTRL+r` and it should be working normal now.
 
+
 > "**My main.cpp ins't running!**"
 - *Your main possible issue is that you created a main.cpp file within your `.vscode` folder. Just drag it outside that folder and attempt to run it again. This should fix that issue.*
 
+
 > "**I can't drag and drop the files from Rincon**"
 - *Make sure that you have extracted the file from the zipped folder. Its going to create a new folder and/or simply open a new window. Either open the new folder or use the new window- This will now allow you to drag and drop the files from the unzipped folder.*
+
 
 > "**Which files am I moving to VSCode from Rincon's?**"
 - *The WinFiles. The path shoould kind of look like...*  
@@ -61,17 +65,24 @@ This was made in order to help students with the installation oF WSL, g++, and t
   |------.DS_Store           
   |------keybindings.json    
   |------launch.json    
-  |------tasks.json  
+  |------tasks.json    
   *Within the WinFiles>WinFiles>..., You're going to then drag and drop teh keybindings.json, launch.json, and task.json*  
+
 
 > "**I am stuck on step 14, clicking on the play button will not tell me to create a launch.json**"
 - *That's fine, what you're going to do is create a folder. It should by the symbol right next to the create file. You're going to name the folder `.vscode`. You may now continue to the following steps.*
 
+
 > "**The command I'm doing is not working inside the terminal!**
 - *A common error is a user error, which typically is a simple typo. Make sure you are typing the commands correctly!*"
+
 
 > "**What do I do with the files Rincon provided?**"
 - *Please follow steps, 15-18. If you're continuing to have trouble, please look at #4, #5, #6, and #7 in troubleshooting.*
 
+
 > "**VSCode didn't make a .vscode folder, what do I do?**"
 - *Follow Troubleshooting #6*
+
+> "**I'm getting a Nonexistent File error. Something dealing with a .vscode-server folder?**"
+- *A student has found that simply deleting and reinstalling VSCode fixed this issue.*
