@@ -66,7 +66,7 @@ This was made in order to help students with the installation oF WSL, g++, and t
   |------keybindings.json    
   |------launch.json    
   |------tasks.json    
-  *Within the WinFiles>WinFiles>..., You're going to then drag and drop teh keybindings.json, launch.json, and task.json*  
+  *Within the WinFiles>WinFiles>..., You're going to then drag and drop the keybindings.json, launch.json, and task.json*  
 
 
 > "**I am stuck on step 14, clicking on the play button will not tell me to create a launch.json**"
