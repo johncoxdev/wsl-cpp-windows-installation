@@ -22,7 +22,7 @@ This was made in order to help students with the installation oF WSL, g++, and t
 12) First thing, download the necessary extentions. Go to the extentions tab found on the left side of your screen *(looks like four boxes)* and download the following items.  
   - C/C++ *By: Microsoft*
   - C/C++ Extension Pack *By: Microsoft*
-  - Remote - WSL *By: Microsoft*  
+  - Remote - WSL *By: Microsoft* [You may also only see "WSL", which is the same thing.] 
 **This will require a VSCode restart**
 13) Create a basic `main.cpp` file that prints Hello World to console.
 14) On the left side of the screen, click on area that looks like a play button. Click on `Create a launch.json` on the left panel area. This should automatically create a basic launch.json within the folder called, `.vscode`.
