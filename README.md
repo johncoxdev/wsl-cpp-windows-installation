@@ -1,6 +1,6 @@
 # WSL & G++ (C++ compiler) installation -- Using Visual Studio Code
 
-This was made in order to help students with the installation oF WSL, g++, and the work arounds using Visual Studio Code from Rincon's 2022 Fundamentals of Operating Systems class.
+This was made in order to help students with the installation oF WSL, g++, and the work arounds using Visual Studio Code from Rincon's 2022 Fundamentals of Operating Systems class. If there is an update you'd like to add, please create a pull request with the changes.
 
 ```diff
 - Troubleshooting is at the end for simple issues that may arrise!
