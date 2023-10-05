@@ -6,6 +6,9 @@ This was made in order to help students with the installation oF WSL, g++, and t
 - Troubleshooting is at the end for simple issues that may arrise!
 ```
 
+## Prereqs:
+- Make sure you have Virtualization enabled on your machine! Typically Windows 10+ has it enabled but you can use [these steps](https://support.microsoft.com/en-us/windows/enable-virtualization-on-windows-11-pcs-c5578302-6e43-4b4b-a449-8ced115f58e1) to check!
+
 ## Instructions/Guide:
 
 1) Open Powershell/CMD with admin perms.
